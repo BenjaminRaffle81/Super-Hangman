@@ -1,0 +1,24 @@
+{
+  "name": "Super Hangman!",
+  "version": "1.0.0",
+  "description": "Try to guess the word...or else! (...nothing bad will happen, you'll just suck)",
+  "main": "main.js",
+  "dependencies": {
+    "inquirer": "^1.2.1",
+    "is-letter": "^1.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BenjaminRaffle81/Super-Hangman.git"
+  },
+  "author": "Benjamin Robert Evelyn Raffle, IV, Jr.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BenjaminRaffle81/Super-Hangman.git"
+  },
+  "homepage": "https://github.com/BenjaminRaffle81/Super-Hangman.git"
+}
